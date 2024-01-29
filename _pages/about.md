@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ann Arbor</p>
-    <p>MI, 48105</p>
+    <p>Minkyu Choi</p>
+    <p>Ph.D. Candidate</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -23,7 +23,7 @@ I specialize in <b>machine learning and computational neuroscience</b>.
 My research aims to enhance machine intelligence, particularly in vision and language understanding, to mirror human efficiency and intelligence.
 
 My detailed research areas include, 
-- Efficient and robust computer vision systems
-- Integrated learning of multimodal language and vision
-- Learning models for multimodal brain and body signals (application to healthcare)
-- Advanced eye-tracking and brain signal prediction methods (application to AR/VR)
+- Building Vision Foundation Model for Medical Imaging Analysis
+- Multimodal Language and Vision Learning
+- Learning models for multimodal brain and body signals
+- Advanced eye-tracking and brain signal prediction methods
