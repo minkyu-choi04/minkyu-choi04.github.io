@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[New Paper] A new paper is accepted at NeurIPS 
+A new paper is accepted at NeurIPS 
