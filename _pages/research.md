@@ -26,12 +26,12 @@ On the vision front, I've concentrated on visual attention to bring the represen
   <img src="https://raw.githubusercontent.com/minkyu-choi04/DualStreamBrains/main/figures/v2sal.gif" alt="v2sal" width="300"/>
 </p>
 <p align="center">
-   [Example of my research] Do machines see the world in a way that we do? Check my recent paper at <a href="https://github.com/minkyu-choi04/DualStreamBrains">NeurIPS-23</a>.
+   Do machines see the world in a way that we do? Check my recent paper at <a href="https://github.com/minkyu-choi04/DualStreamBrains">NeurIPS-23</a>.
 </p>
 
 
 ## Multimodal Vision Foundation Model
-In medical imaging, I've spearheaded the creation of a **multimodal vision foundation model** [ISMRM23, NeuroImg19] designed to unlock the potential of medical datasets. This AI model, trained on large-scale datasets, is adept at identifying key features for a range of applications, including disease diagnosis and personalized treatment development. This approach significantly enhances medical data utility, offering new avenues for patient care and healthcare innovation.
+In medical imaging, I've spearheaded the creation of a **multimodal vision foundation model** [ISMRM23, [NeuroImg19](https://www.sciencedirect.com/science/article/pii/S1053811921006984)] designed to unlock the potential of medical datasets. This AI model, trained on large-scale datasets, is adept at identifying key features for a range of applications, including disease diagnosis and personalized treatment development. This approach significantly enhances medical data utility, offering new avenues for patient care and healthcare innovation.
 
 ## Improving Efficiency and Security of AI Models
-I also explore how the **brain's data-efficient learning** [[IJCNN2017](https://ieeexplore.ieee.org/abstract/document/7965915), [NECO2018](https://direct.mit.edu/neco/article/30/1/237/8330/Predictive-Coding-for-Dynamic-Visual-Processing), [TSMC2018](https://ieeexplore.ieee.org/abstract/document/8276651), IROS17abs], notably through predictive coding, informs AI development, enhancing computer vision and robotics by predicting future sensory inputs to reduce prediction errors. My studies demonstrate significant improvements in deep neural network training efficiency through this method.
+I also explore how the **brain's data-efficient learning** [[IJCNN17](https://ieeexplore.ieee.org/abstract/document/7965915), [NECO18](https://direct.mit.edu/neco/article/30/1/237/8330/Predictive-Coding-for-Dynamic-Visual-Processing), [TSMC18](https://ieeexplore.ieee.org/abstract/document/8276651), IROS17abs], notably through predictive coding, informs AI development, enhancing computer vision and robotics by predicting future sensory inputs to reduce prediction errors. My studies demonstrate significant improvements in deep neural network training efficiency through this method.
