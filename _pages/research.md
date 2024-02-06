@@ -1,16 +1,14 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: My research journey.
+title: Research Overview
+description: My research focuses on the synergy between human and machine intelligence, particularly how insights from computational neuroscience and AI can benefit each other. 
 nav: true
 nav_order: 6
 ---
 
 
-# Overview
 
-My research focuses on the synergy between human and machine intelligence, particularly how insights from computational neuroscience and AI can benefit each other. 
 
 ## Research Interests: 
 - Aligning AI/ML models to humans
