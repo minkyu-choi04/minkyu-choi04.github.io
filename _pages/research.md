@@ -11,12 +11,12 @@ nav_order: 6
 
 
 ## Research Interests: 
-- Aligning AI/ML models to humans
+- Aligning AI/ML models to human understanding
 - Multimodal self-supervised learning
 - Vision foundation model
 
 
-## Aligning AI model to human understanding
+## Aligning AI models to human understanding
 My research explores how to **align AI model representations with human understanding**, focusing on vision and language. By using self-supervised learning with multimodal data, we've made language models' representations more closely resemble human thought processes [[NeurIPS21](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9a1335ef5ffebb0de9d089c4182e4868-Abstract.html)]. 
 On the vision front, I've concentrated on visual attention to bring the representations of vision models in line with human perception [[NeurIPS23](https://openreview.net/forum?id=Fy1S3v4UAk), [NECO24](https://arxiv.org/abs/2206.07282), COSYNE23, CRCNS22]. These approaches have proven effective in making AI develop representations that closely mirror human understanding, enhancing both the interpretability and safety of vision and language models.
 
